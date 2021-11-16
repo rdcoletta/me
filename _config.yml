@@ -1,0 +1,16 @@
+# User config
+author: "Rafael"
+tagline: "Rafael's website"
+description: "..."
+keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+email: "pineapple@example.com"
+linkedin: "https://www.linkedin.com/"
+twitter: "https://twitter.com/"
+github: "https://github.com/"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
