@@ -1,12 +1,7 @@
 # User config
 author: "Rafael Della Coletta, Ph.D. candidate at University of Minnesota"
 tagline: "about me"
-<<<<<<< HEAD
 description: "Driven computational biologist focused on delivering improved and resilient crops to maintain food supply and progress towards healthier societies and ecosystems."
-=======
-description: "Driven computational biologist focused on delivering improved and resilient crops to maintain food supply and progress towards healthier societies and ecosystems. My fascination with the power of big data analysis in answering relevant biological questions stems from walking the fields with my grandfather in his small farm operation. Growing up in rural Brazil, a country where agriculture has been the main driver of economic development, strengthened my appreciation of farming and plant science. I strive to help farmers supply food to people’s tables by finding ways to make food production more sustainable."
-keywords: "genomics, computational biology, bioinformatics, plant sciences"
->>>>>>> 9f0ad6681fb9ee46fd577a1f6f738beb3d52cf00
 email: "della028@umn.edu"
 linkedin: "https://www.linkedin.com/in/rafael-della-coletta/"
 twitter: "https://twitter.com/rafael_coletta"
