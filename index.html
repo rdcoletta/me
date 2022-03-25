@@ -14,13 +14,21 @@
 	<main class="content">
 		<section class="intro">
 			<div class="container">
-				<h2>About me.</h2>
-				<p>{{ site.description }}</p>
+				<h2>About me</h2>
+				{% assign aboutpage = site.pages | where: "category", "personal" %}
+				<!-- this assign function will return an array of pages -->
+				<!-- since I only have one page with that category, I can use the index [0] to capture it -->
+				<a href="{{ aboutpage[0].url | prepend: site.baseurl }}">
+					<p>
+						{{ site.description }}
+						<span class='a2'> [Read more about me here] </span>
+					</p>
+				</a>
 			</div>
 		</section>
 		<section class="projects">
 			<div class="container">
-				<h2>Projects I have worked on.</h2>
+				<h2>Projects I have worked on</h2>
 				<ul class="projects-list">
 					{% for item in site.categories.projects %}
 						<li>
