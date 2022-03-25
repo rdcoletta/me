@@ -178,7 +178,7 @@
 	}
 
 	.container {
-		max-width: 100%;
+		max-width: 50%;
 	}
 
 	article {
@@ -187,9 +187,9 @@
 		@media (min-width: $breakpoint-medium) {
 			float: right;
 			right: 0;
-			width: 40%;
+			width: 25%;
 			position: absolute;
-			right: 5%;
+			right: 22%;
 		}
 	}
 
