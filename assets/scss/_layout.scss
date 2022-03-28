@@ -204,6 +204,7 @@
 	aside {
 		margin-left: -3rem;
 		margin-right: -3rem;
+		overflow-wrap: break-word;
 
 		@media (min-width: $breakpoint-small) {
 			@include clearfix;
@@ -212,6 +213,14 @@
 		@media (min-width: $breakpoint-medium) {
 			float: left;
 			width: 55%;
+		}
+
+		.legend {
+			font-size: 0.8em;
+			margin-top: 1rem;
+			margin-bottom: 1rem;
+			margin-left: 0.5rem;
+			letter-spacing: 0;
 		}
 	}
 

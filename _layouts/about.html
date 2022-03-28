@@ -25,6 +25,7 @@
 						{% for image in page.images %}
 						<li>
 							<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+							<h2 class="legend">{{ image.desc }}</h2>
 						</li>
 						{% endfor %}
 					</ul>
