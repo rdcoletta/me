@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "nonhost resistance, brachypodium, wheat stem rust, bulked segregant analysis"
+  keywords: "maize, pan-genome, structural variants, multiple references, graph assemblies"
 
 project:
   title: "Pan-genomes for crop improvement"
