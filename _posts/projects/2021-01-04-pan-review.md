@@ -28,10 +28,10 @@ images:
   - image:
     url: "/assets/images/projects/pan-review/linear.png"
     alt: ""
-    desc: "Linear reference genome"
+    desc: ""
   - image:
     url: "/assets/images/projects/pan-review/graph.png"
     alt: ""
-    desc: "Graph pan-genome"
+    desc: ""
 ---
-<p> The improvements in sequencing technology are allowing scientists to better investigate the genetic information previously "hidden" in the plant genomes. So what does that mean for plant breeders? In this review article, we discuss how plant breeders can harness structural variation and pan-genome information that are now available for maize and other important crop species for future crop improvement efforts. In summary, we discuss that the future of crop genomics will require (1) a paradigm shift from utilizing single reference genome sequences to multiple references, (2) better understanding complex and polyploid genomes, (3) quick generation of genomic resources for understudied crops, and (4) bringing down barriers between crops and their wild relatives.</p>
+<p> The improvements in sequencing technology are allowing scientists to better investigate the genetic information previously "hidden" in the plant genomes. So what does that mean for plant breeders? In this review article, we discuss how plant breeders can harness structural variation and pan-genome information that are now available for maize and other important crop species for future crop improvement efforts. One way to do that is by not relying solely on a single reference genome sequence, but rather on multiple references. The pan-genome information can be represented as a graph to capture all the genome variation of a species, which can lead new insights about genomic regions associated with phenotypic variation.</p>
