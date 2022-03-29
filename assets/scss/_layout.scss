@@ -191,6 +191,7 @@
 
 	article {
 		margin-bottom: 3rem;
+		line-height: 2;
 
 		@media (min-width: $breakpoint-medium) {
 			float: right;
@@ -238,12 +239,6 @@
 
 		&:first-of-type {
 			margin-top: 0;
-		}
-	}
-
-	h1 {
-		a {
-			text-decoration: underline;
 		}
 	}
 
